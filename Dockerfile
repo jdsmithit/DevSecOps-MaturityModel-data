@@ -1,4 +1,4 @@
-FROM php:apache-bullseye
+FROM php:apache-bookworm
 
 ARG DSOMM_VERSION=dev
 ARG GITHUB_REPOSITORY=DevSecOpsMaturityModel-data
